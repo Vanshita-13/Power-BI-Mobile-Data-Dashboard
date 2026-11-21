@@ -57,6 +57,7 @@ customer ratings, transactions, payment methods, and brand-wise sales.
 -   Brand
 
 ## 📷 Dashboard Preview
+![Mobile Sales Dashboard](Screenshot%202026-11-21%20102034.png)
 
 ## 📁 Project Files
 
